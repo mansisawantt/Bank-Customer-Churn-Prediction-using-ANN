@@ -52,11 +52,11 @@ In the competitive banking sector, customer retention is crucial. Identifying cu
 
 ---
 
-##  Results
+## Results
 
 - **Accuracy**: ~86%
-- Good balance between precision and recall
-- Identified key factors contributing to customer churn
+- Used confusion matrix to evaluate true positives and negatives
+- The model effectively distinguishes between churned and retained customers
 
 ---
 
